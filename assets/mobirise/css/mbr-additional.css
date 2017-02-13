@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+
+
+
+
+#menu-0 .navbar-toggler {
+  color: #000;
+}
+#menu-0 .navbar-brand {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#header1-1 H1 {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+}
+#content5-2 .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+  text-align: center;
+  color: #ffffff;
+}
+#content5-2 P {
+  text-align: center;
+  font-size: 24px;
+  color: #fbfbfb;
+}
+#content4-3 H4 {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 30px;
+  color: #0275d8;
+}
+#content4-3 P {
+  text-align: center;
+  color: #0275d8;
+}
+#testimonials1-4 .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#testimonials1-4 .card-block EM {
+  color: #797979;
+  text-align: center;
+}
+#testimonials1-4 .card-block {
+  text-align: center;
+  font-size: 19px;
+}
+#testimonials1-4 .card-footer > div B {
+  text-align: left;
+}
+#contacts2-5 STRONG {
+  font-size: 21px;
+}
+#footer1-6 P {
+  text-align: center;
+  font-size: 14px;
+}
+#footer1-6 B {
+  font-size: 18px;
+}

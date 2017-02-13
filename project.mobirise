@@ -1,0 +1,351 @@
+{
+  "settings": {
+    "name": "CBATRY",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 7,
+    "versionPublish": "3.11.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#000000",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ld-boot-white-on-red-111x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Crystal Boot Awards</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1876.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/0M2dX3ABwsw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Welcome to the world famous Crystal Boot Awards",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "_styles": {
+            "H1": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "36px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#0275d8",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "A truly unqiue experience",
+          "caption": "<p>Now looking forward to its triumphant 22nd year in January 2018, the world famous Crystal Boot Awards is staged at the Norcalympia in Blackpool, England and provides the greatest line dance spectacle</p>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "24px",
+              "color": "#fbfbfb"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#0275d8",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showTitles": true,
+            "showCaptions": true
+          },
+          "title1": "Social Dancing",
+          "caption1": "We have many hours of social dancing throughout the weekend … frequently late into the wee small hours",
+          "title2": "Workshops",
+          "caption2": "A dozen of the world's favourite choreographers personally teach their own CBA inspired dances",
+          "title3": "Live Acts",
+          "caption3": "Your favourite DJs and Live Artistes take care of your music needs all of the way through the weekend",
+          "title4": "Gala Show",
+          "caption4": "The Show on Saturday night is packed with the finest live entertainement and top hosts delivering all of the awards",
+          "_styles": {
+            "H4": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "30px",
+              "color": "#0275d8"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#0275d8"
+            }
+          }
+        },
+        {
+          "items": [
+            {
+              "text": "Our class has been coming to CBA every year since 2010 and we wouldn't miss it. It is the highlight of our dancing year!",
+              "authorName": "<b>MARY K.</b>",
+              "authorBio": "<b>Cumbria, England</b>"
+            },
+            {
+              "text": "Our class has been coming to CBA every year since 2010 and we wouldn't miss it. It is the highlight of our dancing year!",
+              "authorName": "<b>HELGA D.</b>",
+              "authorBio": "<b>Köln, Germany</b>"
+            },
+            {
+              "text": "Our class has been coming to CBA every year since 2010 and we wouldn't miss it. It is the highlight of our dancing year!",
+              "authorName": "<b>ANNIE P.</b>",
+              "authorBio": "<b>Paris, France</b>"
+            },
+            {
+              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "Our class has been coming to CBA every year since 2010 and we wouldn't miss it. It is the highlight of our dancing year!",
+              "authorName": "<b>MARY K.</b>",
+              "authorBio": "<b>Cumbria, England</b>"
+            },
+            {
+              "text": "Our class has been coming to CBA every year since 2010 and we wouldn't miss it. It is the highlight of our dancing year!",
+              "authorName": "<b>HELGA D.</b>",
+              "authorBio": "<b>Köln, Germany</b>"
+            },
+            {
+              "text": "Our class has been coming to CBA every year since 2010 and we wouldn't miss it. It is the highlight of our dancing year!",
+              "authorName": "<b>ANNIE P.</b>",
+              "authorBio": "<b>Paris, France</b>"
+            }
+          ],
+          "_anchor": "testimonials1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#a8d0ea",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "count": "3",
+            "showName": true,
+            "showBio": true
+          },
+          "header": "What our guests say …",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
+            ".card-block EM": {
+              "color": "#797979",
+              "text-align": "center"
+            },
+            ".card-block": {
+              "text-align": "center",
+              "font-size": "19px"
+            },
+            ".card-footer > div B": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#0275d8",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Clare House 166 Lord Street Southport PR9 0QA",
+              "placeId": "ChIJxWFl1N0-e0gRpI_p_9daC1E",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Clare House<br>166 Lord Street<br>Southport &nbsp; PR9 0QA<br>United Kingdom<br><br>\n<strong>Contacts</strong><br>\nE:&nbsp;<a href=\"mailto:cba@linedancerweb.com\">cba@linedancerweb.com</a><br>\nT: &nbsp;+44 (0) 1704 392 300",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://www.linedancermagazine.com\" target=\"_blank\">Linedancer Magazine Archive</a><a href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.linedancerweb.com\" target=\"_blank\">Linedancer Web</a><a href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://www.linedancefoundation.com\" target=\"_blank\">Line Dance Foundation</a></li></ul>",
+          "_styles": {
+            "STRONG": {
+              "font-size": "21px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright © 2017 Crystal Boot Awards. All rights reserved&nbsp;<br></b>Crystal Boot Awards and Champion Media Group are trading styles of Waypride Ltd. a company registered in England &amp; Wales at the above address, registered number 2889999",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
